@@ -1,0 +1,27 @@
+Algoritmo del programa
+
+1. Iniciar el programa
+2. Definir el precio base del seguro
+3. Solicitar el nombre del usuario
+4. Solicitar la edad del usuario
+5. Convertir la edad a número
+6. Verificar si la edad es menor de 18 años
+7. Si es menor de edad, mostrar un mensaje y terminar el programa
+8. Si es mayor o igual a 18 años continuar
+9. Iniciar el total con el precio base
+10. Verificar el rango de edad del usuario
+11. Si la edad está entre 18 y 24 años agregar un 10% al total
+12. Si la edad está entre 25 y 49 años agregar un 20% al total
+13. Si la edad es 50 años o más agregar un 30% al total
+14. Preguntar si el usuario está casado
+15. Si está casado, solicitar la edad del cónyuge
+16. Calcular el recargo según la edad del cónyuge
+17. Preguntar cuántos hijos tiene 
+18. Si tiene hijos agregar un 20% por cada hijo
+19. Preguntar cuántas propiedades tiene el usuario.
+20. Calcular el recargo del 35% por cada propiedad.
+21. Preguntar el salario del usuario.
+22. Calcular el recargo del 5% sobre el salario.
+23. Sumar todos los recargos al precio base
+24. Mostrar el total que tiene que pagar
+25. Finalizar el programa

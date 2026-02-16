@@ -1,0 +1,11 @@
+Análisis del Problema
+
+El problema es que la empresa de seguros TK-U realiza las cotizaciones de forma manual, lo cual provoca que se pierda mucho tiempo y que solo puedan hacer 50 cotizaciones al día la cual genera atrasos y pérdidas de clientes por lo que la solución es desarrollar un programa que calcule automáticamente el costo del seguro según ciertas condiciones del cliente.
+
+Casos que se están considerando para cambiar el valor de la cotización: 
+
+1. Edad del asegurado, dependiendo de la edad se aplica un recargo
+2. Si la persona está casada, también se debe aplicar un recargo dependiendo de la edad del cónyuge
+50 años o más es el 30%. Si no está casado, no se aplica ningún recargo adicional en este punto.
+3. Cantidad de hijos, por cada hijo que tenga el asegurado, se agrega un recargo del 20% del precio base.
+
